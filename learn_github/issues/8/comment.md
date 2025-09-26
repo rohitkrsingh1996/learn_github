@@ -1,0 +1,1 @@
+copilot.html has been added to the repository, and this issue can now be closed.
